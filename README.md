@@ -86,3 +86,5 @@ Mini-PMS를 이용하는 회원 정보를 출력한다. 일단 한 명의 정보
 - src/main/java/com/eomcs/pms/App2.java 추가
 - src/main/java/com/eomcs/pms/App3.java 추가
 - src/test/java/com/eomcs/pms/AppTest.java 삭제
+
+실습 완료.
